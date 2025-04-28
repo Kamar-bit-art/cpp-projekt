@@ -1,0 +1,7 @@
+### Meine Erfahrung mit dieser Aufgabe
+
+- Die Zeit, die ich für die Aufgabe gebraucht habe, betrug etwa 7 Stunden.
+- Während dieser Zeit hatte ich einige Herausforderungen im Umgang mit Git, insbesondere bei den Befehlen `push` und `commit`.
+- Es hat etwas länger gedauert, den Umgang mit dem Terminal zu verstehen und die richtigen Befehle auszuführen.
+- Die größte Herausforderung war es, die Fehler zu verstehen, die beim Verwenden von `g++` beim Kompilieren des Codes auftraten. Ich musste online nach Fehlerbehebung suchen.
+- In Zukunft denke ich, dass ich diese Vorlesungen und Übungen effektiver konsumieren kann, wenn es Videos gibt, die die Befehle Schritt für Schritt erklären und detaillierte Fehleranalysen bieten.
